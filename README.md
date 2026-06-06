@@ -1,0 +1,4 @@
+## Steps
+```bash
+uv sync
+```
